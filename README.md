@@ -1,6 +1,6 @@
 # Web Rebels 2016 - Change the World with IoT and the Peer Web
 
-This is a presentation given at [Web Rebels 2016](https://webrebels.org/ called Change the World with IoT and the Peer Web about the [Thali Project](http://thaliproject.org) at Microsoft.  The presentation can be found at [webrebels-2016.pdf](webrebels-2016.pdf)
+This is a presentation given at [Web Rebels 2016](https://webrebels.org/) called Change the World with IoT and the Peer Web about the [Thali Project](http://thaliproject.org) at Microsoft.  The presentation can be found at [webrebels-2016.pdf](webrebels-2016.pdf)
 
 ## RESOURCES
 
@@ -16,6 +16,7 @@ Blog Articles:
 - [How do we exchange identities in Thali without making our users hate us?](http://www.goland.org/coinflippingforthali/)
 - [A user’s bill of rights for Thali local discovery](http://www.goland.org/localdiscoverybillofrights/)
 - [What is the Peer Web?](http://www.goland.org/webrtcthaliinthebrowser/)
+- [How Can Thali Survive Android Marshmallow?](http://www.goland.org/fixmarshmallowmac/)
 
 Project Stanton:
 - [@Project_Stanton](https://twitter.com/project_stanton)
